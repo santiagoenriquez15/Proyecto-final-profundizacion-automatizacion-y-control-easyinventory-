@@ -7,6 +7,11 @@ El link de la app en streamlit es el siguiente :
   Local URL: http://localhost:8501
   Network URL: http://192.168.20.76:8501
 
+  El codigo se realizo en visual studio code con lenguaje python, donde se instalo un entorno virtual para evitar problemas entre librerias, despues de esto se instalaron liberias como pip,pandas,streamlit y se enlazo con el framework open source para poder obtener una entorno mas interactivo con el usuario asi como se puede evidenciar en el link de arriba (Network URL: http://192.168.20.76:8501).
+  El link del codigo es el siguiente : https://github.com/santiagoenriquez15/Proyecto-final-profundizacion-automatizacion-y-control-easyinventory-/blob/main/easyinventory3.py
+ 
   
+  Esperamos sea de su agrado :)
 
+bye.
 
