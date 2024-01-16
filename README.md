@@ -5,3 +5,5 @@ Este es un repositorio creado para adjuntar el programa de inventario automatiza
 Local URL: http://localhost:8501
   Network URL: http://192.168.20.76:8501
 
+eslogan : 
+https://github.com/santiagoenriquez15/Proyecto-final-profundizacion-automatizacion-y-control-easyinventory-/blob/main/easyinventory.png?raw=true
